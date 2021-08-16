@@ -1,0 +1,71 @@
+section.painelControle{
+    margin: 20px 0;
+    background: grey;
+    color: white;
+    padding: 10px 0;
+}
+
+
+.mainPage h3{
+    font-size: 23px;
+}
+
+.mainPage .sobre{
+ margin-bottom: 20px;
+}
+
+.mainPage .sobre button{
+    margin-top: 10px;
+}
+
+.mainPage .sobre textarea{
+    resize: none;
+    height: 200px;
+}
+
+.mainPage .cadastro{
+    margin-bottom: 20px;
+}
+
+.mainPage .cadastro label{
+    margin-top: 10px;
+}
+
+.mainPage .cadastro button{
+    margin-top: 10px;
+}
+
+.mainPage .list-group{
+    border-radius: 5px;
+}
+
+.mainPage .list-group a{
+    text-decoration: none;
+}
+
+.active{
+    background: #e6e8ea;
+    border-radius: 5px;
+}
+
+.login{
+    margin: 0 auto;
+    width: 600px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.login h3{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.login label{
+    margin-bottom: 10px;
+}
+
+.login button{
+    margin-top: 10px;
+}
